@@ -105,3 +105,10 @@ body {
     border-radius: 8px;
     font-weight: 600;
 }
+
+.profile-link:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
